@@ -1,0 +1,1 @@
+alert("Easy Website Project Setup (Font Awesome, bootstrap, jQuery) Completed");
